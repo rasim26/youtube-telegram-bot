@@ -7,10 +7,10 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # === CONFIGURATION ===
-TELEGRAM_TOKEN = '7745618651:AAGVEaXrzVXUP9mc_CWn_jSC1BvJsEPGat0'
-YOUTUBE_API_KEY = 'AIzaSyC7AAv8HPMAhdIXxpUN1SnA03P_w-FLUrY'
-CHANNEL_ID = 'UCA1v1wXHrtZ5JKzNyiQDyBA'
-TELEGRAM_CHAT_ID = '637831682'  # For auto notifications
+TELEGRAM_TOKEN = 'your_telegram_bot_token'
+YOUTUBE_API_KEY = 'Youtube_api_key'
+CHANNEL_ID = 'your_youtube_channel_id'
+TELEGRAM_CHAT_ID = 'telegram_chat_id'  # For auto notifications
 
 # === YOUTUBE API SETUP ===
 print ("script started..")
