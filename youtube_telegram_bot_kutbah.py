@@ -8,9 +8,9 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # === CONFIGURATION ===
 TELEGRAM_TOKEN = 'your_telegram_bot_token'
-YOUTUBE_API_KEY = 'Youtube_api_key'
+YOUTUBE_API_KEY = 'your-youtube-api-key'
 CHANNEL_ID = 'your_youtube_channel_id'
-TELEGRAM_CHAT_ID = 'telegram_chat_id'  # For auto notifications
+TELEGRAM_CHAT_ID = 'your-chat-id-or-@channelusername'  # For auto notifications
 
 # === YOUTUBE API SETUP ===
 print ("script started..")
