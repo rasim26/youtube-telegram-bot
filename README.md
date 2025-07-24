@@ -1,7 +1,12 @@
 # YouTube to Telegram Bot
 
-A Python bot that connects a YouTube channel to Telegram.  
-It lists recent videos and playlists on command, and automatically notifies a Telegram chat or channel when new videos are uploaded.
+A Python-based bot that integrates a YouTube channel with Telegram.
+The bot provides commands to list recent videos and playlists, and automatically notifies a specified Telegram chat or channel whenever new videos are uploaded.
+
+This project is demonstrated using my personal YouTube channel, @kutbahmalayalam, for automation purposes.
+
+Note:
+This bot does not utilize any external servers by default; it operates only while the Python script is actively running. For continuous, 24/7 operation, you may deploy the bot on a server or cloud platform.
 
 ## Features
 
